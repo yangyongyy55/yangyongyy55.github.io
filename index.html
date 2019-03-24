@@ -7,24 +7,33 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 	<title>Loading</title>
 </head>
-<body>
+
+
 <div style="width:110px;margin:0 auto;text-align:left;">
-    <img src="Logining-1.gif" width="100px" height="100px" /><br />
-    <span id="a">Loading</span>
+    <script>
+    var aa = Math.floor(Math.random()*3)+1 ;
+    document.write('<img src="Logining-'+aa+'.gif" width="100px" height="100px" /><br />')
+    </script>
+    <span id="yy">Loading</span>
 </div>
 
 <script>
-function b(){
-    a.innerHTML='Loading';
-    setTimeout("a.innerHTML='Loading.'",500);
-    setTimeout("a.innerHTML='Loading..'",1000); 
-    setTimeout("a.innerHTML='Loading...'",1500);
-    setTimeout("a.innerHTML='Loading....'",2000);
-    setTimeout("a.innerHTML='Loading.....'",2500);
-    setTimeout("a.innerHTML='Loading......'",3000);
+
+function cc()
+{
+yy.innerHTML='Loading';
+setTimeout("yy.innerHTML='Loading.'",500);
+setTimeout("yy.innerHTML='Loading..'",1000); 
+setTimeout("yy.innerHTML='Loading...'",1500);
+setTimeout("yy.innerHTML='Loading....'",2000);
+setTimeout("yy.innerHTML='Loading.....'",2500);
+setTimeout("yy.innerHTML='Loading......'",3000);
 }
-b();
-window.setInterval("b()",3500); 
+
+
+var y1 = cc();
+var y2 = window.setInterval("cc()",3500); 
+
+
 </script>
-</body>
 </html>
