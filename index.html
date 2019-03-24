@@ -1,1 +1,30 @@
-test
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="renderer" content="webkit">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<title>Loading</title>
+</head>
+<body>
+<div style="width:110px;margin:0 auto;text-align:left;">
+    <img src="Logining-1.gif" width="100px" height="100px" /><br />
+    <span id="a">Loading</span>
+</div>
+
+<script>
+function b(){
+    a.innerHTML='Loading';
+    setTimeout("a.innerHTML='Loading.'",500);
+    setTimeout("a.innerHTML='Loading..'",1000); 
+    setTimeout("a.innerHTML='Loading...'",1500);
+    setTimeout("a.innerHTML='Loading....'",2000);
+    setTimeout("a.innerHTML='Loading.....'",2500);
+    setTimeout("a.innerHTML='Loading......'",3000);
+}
+b();
+window.setInterval("b()",3500); 
+</script>
+</body>
+</html>
