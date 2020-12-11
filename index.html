@@ -17,17 +17,12 @@ document.write('<img src="Logining-'+aa+'.gif" width="100px" height="100px" /><b
 </div>
 
 <script>
-function b(){
-    a.innerHTML='Loading';
-    setTimeout("a.innerHTML='Loading.'",500);
-    setTimeout("a.innerHTML='Loading..'",1000); 
-    setTimeout("a.innerHTML='Loading...'",1500);
-    setTimeout("a.innerHTML='Loading....'",2000);
-    setTimeout("a.innerHTML='Loading.....'",2500);
-    setTimeout("a.innerHTML='Loading......'",3000);
-}
-b();
-window.setInterval("b()",3500); 
+	t = 'Loading';
+	setInterval(function () {
+		t+='.';
+		document.getElementById("a").innerHTML=t;
+		if(t.length>12){t = 'Loading';}
+	}, 500);
 </script>
 </body>
 </html>
