@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh">
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -8,15 +8,9 @@
 	<title>Loading</title>
 </head>
 <body>
-<div style="width:110px;margin:0 auto;text-align:left;">
 <script>
-var aa = Math.floor(Math.random()*3)+1 ;
-document.write('<img src="Logining-'+aa+'.gif" width="100px" height="100px" /><br />')
-</script>
-    <span id="a">Loading</span>
-</div>
-
-<script>
+	var r = Math.floor(Math.random()*3)+1 ;
+	document.write('<div style="width:110px;margin:0 auto;text-align:left;"><img src="Logining-'+r+'.gif" width="100px" height="100px" /><br /><span id="a">Loading</span></div>')
 	t = 'Loading';
 	setInterval(function () {
 		t+='.';
