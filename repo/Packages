@@ -1,0 +1,144 @@
+Package: byg.iosios.net.Flex3
+Version: 1:3~Beta61
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, byg.iosios.net.Flex3beta
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: debs/rootless/byg.iosios.net.Flex3_1_3~Beta61_iphoneos-arm64.deb
+Size: 20946550
+MD5sum: 99cda0d68b6b245d7f47a67094a65b58
+SHA1: 7d9cdd13e1164b341af962fd1bf00d8586e26fdd
+SHA256: 7ee8a21983866e14e7961f982edd05e7acc2f3985921beb967dfe29be7453ea7
+Section: 系统增强
+Description: Develop your own tweaks and share them on the Flex Community Cloud作者今天刚维护更新的61beta-Rootless版本，兄弟们冲吧，如果打开闪退的话就进入系统设置里的显示与亮度，关闭粗体显示！免费账号每天可下载2个补丁，此账号可无限下载！sundasheng521@qq.com密码7758521a
+Author: John Coates
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Flex 3 Beta程序修改器-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.hidescreenshotpreview-rootless
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/rootless/byg.iosios.net.hidescreenshotpreview-rootless_1.2-1_iphoneos-arm64.deb
+Size: 3792
+MD5sum: a17b19cefbe65e4f2a116493a6c6c64e
+SHA1: 421b3b27a018a4892c2902204fb5ad9df06fc196
+SHA256: ba9dfcedff921a11af34ab9020d587497d1c5eca5172e644475feecdd7b3498c
+Section: 系统增强
+Description: 隐藏截图时左下角预览，保留闪屏无延迟
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 隐藏截图预览-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.iapstorefugu-rootless
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/rootless/byg.iosios.net.iapstorefugu-rootless_0.0.2_iphoneos-arm64.deb
+Size: 66082
+MD5sum: f5871a0876444b3d534fc498478b7a09
+SHA1: a4904abd74e3c9b79e82d29fbff368365108de64
+SHA256: 6b3fd8fc9533bb616abb8db87cb4db5557b11cdc68f3431515cdc3105b28f021
+Section: 软件破解
+Description: App Store需要付费的软件可以先试试此内购插件，弹窗付款点取消即可，如果不行，那就是破解不了！放弃吧！
+Author: lly
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 内购神器IAPStore-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.souvenir
+Version: 1.22
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 604
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/byg.iosios.net.souvenir_1.22_iphoneos-arm64.deb
+Size: 146004
+MD5sum: 28425642b0b9608060fb6386296dc8b9
+SHA1: d12691d5b4977c3c3d031860366c67ea40827767
+SHA256: 60638214423f57980a4e1e4ebec1e2c93e84939439f99d430e01242f7ebc6d8b
+Section: 杂七杂八
+Description: Lockscreen customization tweak!又一款锁屏美化插件，搬运工源结合楠神汉化补丁修改完善，结合多种插件使用美化！已汉化！
+Author: Elio Feghali
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Souvenir锁屏美化-Rootless
+Sponsor: 搬运工
+
+Package: com.25mao.miyou.rootless
+Version: 3.7-2
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/rootless/com.milo.com.25mao.miyou.rootless_3.7-2.deb
+Size: 13557410
+MD5sum: 25e5b9bb6ffd87cfa401aa11d0f32202
+SHA1: ae0d87c54e3bc4851f9f5a2d399ee559c7009f1c
+SHA256: e673100673b5b0acfa1ddac2d1dc4389ce489551cb7d53b62761518f31806c50
+Section: Rootless
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Name: 微信助手-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.lclrc.mdaus.latchkey
+Version: 2.3.2
+Architecture: iphoneos-arm64
+Maintainer: Maxwell Dausch & lclrc
+Installed-Size: 13476
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/rootless/com.lclrc.mdaus.latchkey_2.3.2_iphoneos-arm64.deb
+Size: 6450584
+MD5sum: b6be2a6973ded9e0ba3b70282eced674
+SHA1: 9f97c6cc155670f43623df08ab995f727be5079a
+SHA256: eb8bc341efbd7f42b7546357a80e18616083702fb82d19e1a8c83dc5d7c55e5b
+Section: Tweaks
+Description: 自定义锁头图标和位置。适配多巴胺，增加汉化，需要libcolorpicker依赖(p2kdev源里有)。Move and theme the Face-ID lock glyph
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
+Name: 锁头自定义 Latchkey
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.mdaus.latchkey/depiction.json
+
+Package: com.opa334.crane
+Version: 1.3.13
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 3108
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: debs/roothide/com.opa334.crane_1.3.13_iphoneos-arm64e.deb
+Size: 1434846
+MD5sum: 55bd8ddf0e1a0698642bd7c43c243cae
+SHA1: 10fa099fd12e7ee5073eefea89cb16907a2e6492
+SHA256: 571110049226b429124b713b4a91f5c0de0a1f3a7bb75ced3aef2297091aa955
+Section: Tweaks
+Description: Multiple containers for your applications!
+Author: opa334
+Name: Crane
+
+Package: org.thebigboss.libcolorpicker
+Version: 1.6.9
+Architecture: iphoneos-arm64
+Maintainer: Bailey Seymour
+Installed-Size: 392
+Depends: firmware (>= 6.0)
+Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
+Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
+Filename: debs/rootless/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64.deb
+Size: 70930
+MD5sum: e00983f2e7bf87f5e0bc221c23787c5d
+SHA1: 6099739e676227e1a5761bda8e510f8da49ffff8
+SHA256: d906e6eb451e134b7c263d528264d700873dffa0c82744e5e699fe912373ebea
+Section: System
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: Bailey Seymour
+Name: libcolorpicker
+
