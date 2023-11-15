@@ -1,3 +1,22 @@
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.6.4
+Architecture: iphoneos-arm64e
+Maintainer: MrGcGamer
+Installed-Size: 296
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: debs/roothide/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64e.deb
+Size: 44476
+MD5sum: 7fa7b9b25a7722048c65aeefb41f701f
+SHA1: 0b6eb3d1f5fd9a6bf139169d6008941b57e1111d
+SHA256: a80382486d6f21186a0e7786fe2a633fc0904a6e567f650ee76899ba2a196006
+Section: roothide
+Description: 转为roothide
+Tag: role::developer
+Author: MrGcGamer
+Name: LibGcUniversal
+
 Package: com.roothide.com.25mao.miyou.rootless
 Version: 3.7-2
 Architecture: iphoneos-arm64e
@@ -15,25 +34,6 @@ Description: 转为roothide 微信助手
 Author: Mao
 Name: 微信助手-Rootless
 Sponsor: admin@25mao.com
-
-Package: com.roothide.com.mrgcgamer.libgcuniversal
-Version: 1.6.4
-Architecture: iphoneos-arm64e
-Maintainer: MrGcGamer
-Installed-Size: 296
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
-Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
-Filename: debs/roothide/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64e.deb
-Size: 44644
-MD5sum: d4e04b884fd09e798fc337b5b94f8ce7
-SHA1: 07e74f23a7150b51d8fb6be5f69de51d839c877e
-SHA256: 0b849e4b58866a554ad04b21b2025c70160613f5622100c5ac1a0e3346f87e90
-Section: roothide
-Description: 转为roothide
-Tag: role::developer
-Author: MrGcGamer
-Name: LibGcUniversal
 
 Package: com.roothide.com.opa334.crane
 Version: 1.3.13
@@ -163,7 +163,7 @@ Author: Elio Feghali
 Name: Souvenir锁屏美化-Rootless
 Sponsor: milo
 
-Package: com.roothide.org.thebigboss.libcolorpicker
+Package: org.thebigboss.libcolorpicker
 Version: 1.6.9
 Architecture: iphoneos-arm64e
 Maintainer: Bailey Seymour
@@ -173,10 +173,10 @@ Depends: firmware (>= 6.0)
 Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
 Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
 Filename: debs/roothide/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64e.deb
-Size: 72452
-MD5sum: 73c0b4375cb3acdf5616a5f88b27bcf4
-SHA1: 52826b91280399925d659fe2341f69bcc1420b52
-SHA256: 693e0bb573390be197073b721ef0560cc2d80fc0b1ac6c2cc1029363bd6c6f01
+Size: 72128
+MD5sum: 2df92441192a619d00299ff509968c19
+SHA1: 7e4db6af87badd25af33e94b6713658c4baa0def
+SHA256: 98c2ce37f16c24db5ce6f41b30d2e955fcec6e4274663bdd45763fae4f9253f4
 Section: roothide
 Description: 转为roothide
 Tag: role::developer
