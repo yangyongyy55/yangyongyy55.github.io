@@ -1,21 +1,163 @@
+Package: byg.iosios.net.Flex3
+Version: 1:3~Beta61
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate, firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, byg.iosios.net.Flex3beta
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: debs/rootless/byg.iosios.net.Flex3_1_3~Beta61_iphoneos-arm64.deb
+Size: 20946550
+MD5sum: 99cda0d68b6b245d7f47a67094a65b58
+SHA1: 7d9cdd13e1164b341af962fd1bf00d8586e26fdd
+SHA256: 7ee8a21983866e14e7961f982edd05e7acc2f3985921beb967dfe29be7453ea7
+Section: 系统增强
+Description: Develop your own tweaks and share them on the Flex Community Cloud作者今天刚维护更新的61beta-Rootless版本，兄弟们冲吧，如果打开闪退的话就进入系统设置里的显示与亮度，关闭粗体显示！免费账号每天可下载2个补丁，此账号可无限下载！sundasheng521@qq.com密码7758521a
+Author: John Coates
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Flex 3 Beta程序修改器-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.hidescreenshotpreview-rootless
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/rootless/byg.iosios.net.hidescreenshotpreview-rootless_1.2-1_iphoneos-arm64.deb
+Size: 3792
+MD5sum: a17b19cefbe65e4f2a116493a6c6c64e
+SHA1: 421b3b27a018a4892c2902204fb5ad9df06fc196
+SHA256: ba9dfcedff921a11af34ab9020d587497d1c5eca5172e644475feecdd7b3498c
+Section: 系统增强
+Description: 隐藏截图时左下角预览，保留闪屏无延迟
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 隐藏截图预览-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.iapstorefugu-rootless
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/rootless/byg.iosios.net.iapstorefugu-rootless_0.0.2_iphoneos-arm64.deb
+Size: 66082
+MD5sum: f5871a0876444b3d534fc498478b7a09
+SHA1: a4904abd74e3c9b79e82d29fbff368365108de64
+SHA256: 6b3fd8fc9533bb616abb8db87cb4db5557b11cdc68f3431515cdc3105b28f021
+Section: 软件破解
+Description: App Store需要付费的软件可以先试试此内购插件，弹窗付款点取消即可，如果不行，那就是破解不了！放弃吧！
+Author: lly
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 内购神器IAPStore-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.settingsrevamp
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader,com.hk.settingsrevamp.cn.rl
+Filename: debs/rootless/byg.iosios.net.settingsrevamp_2.1.1_iphoneos-arm64.deb
+Size: 140142
+MD5sum: 4fb422d9ebd327079956ba0596e237a6
+SHA1: 63b439ef21fc3625b1af0abc7f53808dd29a5d31
+SHA256: aa85b5fa744c0154007079882ec342c23ed01bf6c20c79eed5224ac81d3e3ced
+Section: 插件依赖
+Description: Customize the ios settings page插件设置归类，更新修复重多bug！插件已自带汉化，安装会自动移除中文包，无法更新可以先缷载再更新！现已支持顶图点击进入AppleID！
+Author: SOPPPra
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: SettingsRevamp-设置归类-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.souvenir
+Version: 1.22
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 604
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/byg.iosios.net.souvenir_1.22_iphoneos-arm64.deb
+Size: 146004
+MD5sum: 28425642b0b9608060fb6386296dc8b9
+SHA1: d12691d5b4977c3c3d031860366c67ea40827767
+SHA256: 60638214423f57980a4e1e4ebec1e2c93e84939439f99d430e01242f7ebc6d8b
+Section: 杂七杂八
+Description: Lockscreen customization tweak!又一款锁屏美化插件，搬运工源结合楠神汉化补丁修改完善，结合多种插件使用美化！已汉化！
+Author: Elio Feghali
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Souvenir锁屏美化-Rootless
+Sponsor: 搬运工
+
+Package: com.25mao.miyou.rootless
+Version: 3.7-2
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/rootless/com.milo.com.25mao.miyou.rootless_3.7-2.deb
+Size: 13557410
+MD5sum: 25e5b9bb6ffd87cfa401aa11d0f32202
+SHA1: ae0d87c54e3bc4851f9f5a2d399ee559c7009f1c
+SHA256: e673100673b5b0acfa1ddac2d1dc4389ce489551cb7d53b62761518f31806c50
+Section: Rootless
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Name: 微信助手-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.lclrc.mdaus.latchkey
+Version: 2.3.2
+Architecture: iphoneos-arm64
+Maintainer: Maxwell Dausch & lclrc
+Installed-Size: 13476
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/rootless/com.lclrc.mdaus.latchkey_2.3.2_iphoneos-arm64.deb
+Size: 6450584
+MD5sum: b6be2a6973ded9e0ba3b70282eced674
+SHA1: 9f97c6cc155670f43623df08ab995f727be5079a
+SHA256: eb8bc341efbd7f42b7546357a80e18616083702fb82d19e1a8c83dc5d7c55e5b
+Section: Tweaks
+Description: 自定义锁头图标和位置。适配多巴胺，增加汉化，需要libcolorpicker依赖(p2kdev源里有)。Move and theme the Face-ID lock glyph
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
+Name: 锁头自定义 Latchkey
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.mdaus.latchkey/depiction.json
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.6.4
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: MrGcGamer
 Installed-Size: 296
-Pre-Depends: rootless-compat(>= 0.1)
 Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
 Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
-Filename: debs/roothide/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64e.deb
-Size: 44476
-MD5sum: 7fa7b9b25a7722048c65aeefb41f701f
-SHA1: 0b6eb3d1f5fd9a6bf139169d6008941b57e1111d
-SHA256: a80382486d6f21186a0e7786fe2a633fc0904a6e567f650ee76899ba2a196006
-Section: roothide
-Description: 转为roothide
+Filename: debs/rootless/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64.deb
+Size: 42992
+MD5sum: e98e7eede3cc05f081c54fbd19d3d429
+SHA1: 23c78ea1225f06de045f7e5e570a84703963e868
+SHA256: ad860c13412ded1618d96a4baaa73d6766bf1b738198f9360d9cccbb1a0ce1ad
+Section: Development
+Description: An awesome library of some sort!!
 Tag: role::developer
 Author: MrGcGamer
 Name: LibGcUniversal
+
+Package: com.opa334.crane
+Version: 1.3.13
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 3108
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: debs/rootless/com.opa334.crane_1.3.13_iphoneos-arm64.deb
+Size: 560552
+MD5sum: 6799af90201843c9f6f3c4f476b15bf4
+SHA1: c71f691a16b4d8bef54ea2f54949e81bccf6c8d5
+SHA256: 73f30c8ca4aad7e7f66f39b91adedd27a8160b195a88d057acd289c1b8dbb92a
+Section: Tweaks
+Description: Multiple containers for your applications!
+Author: opa334
+Name: Crane
 
 Package: com.roothide.com.25mao.miyou.rootless
 Version: 3.7-2
@@ -25,15 +167,34 @@ Pre-Depends: rootless-compat(>= 0.1)
 Depends: firmware (>= 5.0)
 Filename: debs/roothide/com.25mao.miyou.rootless_3.7-2_iphoneos-arm64e.deb
 Size: 19175840
-MD5sum: 5e2134976650ae2cc46fb94889825f00
-SHA1: 111d76852658507f277ca26eed71afa5a44ae0a5
-SHA256: 49ede23aed0f91d58612a4a619289a68035e7d03baa16d8289a1ac0843fe20cc
+MD5sum: 69eae50c3d45821862de29f66dde8448
+SHA1: bafa1f48eff4fa2ca671509f781238f4e57df05a
+SHA256: bd5b10555aa1eedce473a87000e98a79a330cd902a9facecb191e42db3eeeb7b
 Section: roothide
 Priority: optional
 Description: 转为roothide 微信助手
 Author: Mao
 Name: 微信助手-Rootless
 Sponsor: admin@25mao.com
+
+Package: com.roothide.com.mrgcgamer.libgcuniversal
+Version: 1.6.4
+Architecture: iphoneos-arm64e
+Maintainer: MrGcGamer
+Installed-Size: 296
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: debs/roothide/com.mrgcgamer.libgcuniversal_1.6.4_iphoneos-arm64e.deb
+Size: 44484
+MD5sum: 908e1424edb2178dce263fc7662f51df
+SHA1: 14d91f2044862ea683998f691cc69e5b84ba0bb4
+SHA256: ddf1ed6916515bf88475ba12b2025b8f591a983c2cdd2d70eb66147fb0251eab
+Section: roothide
+Description: 转为roothide
+Tag: role::developer
+Author: MrGcGamer
+Name: LibGcUniversal
 
 Package: com.roothide.com.opa334.crane
 Version: 1.3.13
@@ -45,9 +206,9 @@ Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlis
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Filename: debs/roothide/com.opa334.crane_1.3.13_iphoneos-arm64e.deb
 Size: 569372
-MD5sum: 26bb082240470c7aad13ee9c22732406
-SHA1: 112c7257dc968372e1f93e06052b05f3fbf13c18
-SHA256: 043f0514d9dc3f7062001214b37100bd74fa2a6a106a9e495cbdd4663d47d334
+MD5sum: c5252f9d41df708ad959af0352ffea96
+SHA1: 990f91358188647071bb5f32b3b59946366720c2
+SHA256: 2666b65ccf0ed482fe16e9cdd50c677c45cf210552f12b22c13b13650d4be23e
 Section: roothide
 Description: 转为roothide
 Author: opa334
@@ -59,18 +220,16 @@ Architecture: iphoneos-arm64e
 Maintainer: Maxwell Dausch & lclrc
 Installed-Size: 13476
 Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Depends: mobilesubstrate, com.roothide.org.thebigboss.libcolorpicker
 Filename: debs/roothide/com.lclrc.mdaus.latchkey_2.3.2_iphoneos-arm64e.deb
-Size: 12548412
-MD5sum: 8777f7e2c9893c87c325896399521b47
-SHA1: 46faebe74630df42de79b9edf4b68592014e6b6e
-SHA256: 2efa678924c6e7227da4fb27b2b86492b3d376b00ba013dca49161028d74b739
+Size: 12548344
+MD5sum: a5e9bd06a3a2d41264551532eed08efa
+SHA1: 7034ab64948a3d205131a6ded598ceada1fcfbed
+SHA256: 9edc6f27234a6c00a7caf44f7661f3654b86edf4a09e3f1105c9118a844192f2
 Section: roothide
 Description: 转为roothide 需要libcolorpicker依赖
 Author: Maxwell Dausch <max.dausch@gmail.com>
-Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
 Name: 锁头自定义 Latchkey
-Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.mdaus.latchkey/depiction.json
 
 Package: com.roothide.net.Flex3
 Version: 1:3~Beta61
@@ -82,9 +241,9 @@ Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Fle
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Filename: debs/roothide/byg.iosios.net.flex3_1:3~Beta61_iphoneos-arm64e.deb
 Size: 30424076
-MD5sum: 0178ef8c0cb29cb67543a1c43933cd68
-SHA1: f8128862bb2cb516ec83140023808af2f2874a2c
-SHA256: bcf5cbb4875e5c18df7b1bfe8dfdc102ec6e269a0ca4731f325eba2ecf1fa519
+MD5sum: 4bad280e015e3f25cd34d83a6d86c206
+SHA1: 2c915e00d0808cf2f21ba04341e7d8fd4874b5b0
+SHA256: 80b1b926a9f64bee4844ad1f8dadefeb3a9353038a5869b5b716c7e84bea3584
 Section: roothide
 Description: 转为roothide 此账号可无限下载！sundasheng521@qq.com密码7758521a
 Author: John Coates
@@ -100,9 +259,9 @@ Pre-Depends: rootless-compat(>= 0.1)
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: debs/roothide/byg.iosios.net.hidescreenshotpreview-rootless_1.2-1_iphoneos-arm64e.deb
 Size: 5132
-MD5sum: 57b5ac9e9725f169d68784c1d456b551
-SHA1: 6b5acd954c6b3c69f3f5f31c80d4de47facba851
-SHA256: 72c5ffb7fec44ffbe152eb080dd19e36072f8597de1831403fce6c4411eedd9f
+MD5sum: 2ee9ae8e543111d8730e971fcc8469d6
+SHA1: 3f9a477758ccb3d2ac8cae3aab160825b57ba2cf
+SHA256: 2f212deff7e479c46f18fd9a630130f8cde570bcdf7c86f5a75362be7b1a1ff4
 Section: roothide
 Description: 转为roothide 隐藏截图时左下角预览，保留闪屏无延迟
 Author: Netskao
@@ -117,9 +276,9 @@ Pre-Depends: rootless-compat(>= 0.1)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: debs/roothide/byg.iosios.net.iapstorefugu-rootless_0.0.2_iphoneos-arm64e.deb
 Size: 44048
-MD5sum: 9c88d237b2ec4c17e70bc94457ee7634
-SHA1: f65c328eb126e7fa48eac20f4786155def491348
-SHA256: 680af75387cffeae660a514298c3b2075fdb19056af05b8cfed68b48e02eb285
+MD5sum: d49391c24744c79b8e0fcfdb2d519ffe
+SHA1: c1a879ab82877e598f5532ae3da4031a8d69e0b4
+SHA256: 88410da7babe217d5f9ad39df4ad3cfe996980fd8cd922fa2138e91955a40029
 Section: roothide
 Description: 转为roothide
 Author: lly
@@ -132,13 +291,13 @@ Architecture: iphoneos-arm64e
 Maintainer: milo个人自用
 Installed-Size: 540
 Pre-Depends: rootless-compat(>= 0.1)
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Depends: mobilesubstrate, preferenceloader, com.roothide.com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader,com.hk.settingsrevamp.cn.rl
 Filename: debs/roothide/byg.iosios.net.settingsrevamp_2.1.1_iphoneos-arm64e.deb
 Size: 101412
-MD5sum: cc181fddf6d89fd5bc97f8c87ab2ed66
-SHA1: cc2bf8e966238d6a6b76f033d603465ff4afbd52
-SHA256: d6cefa5074660de4bcccf5e54267c9e8b1948d79cf533b413ceee32feeb33a33
+MD5sum: 29450e804c934db4a1dcdab1d60a3cde
+SHA1: b5e82a06e694d5412d288597c433cf3f66f69e13
+SHA256: 17f36dd4a1d657897cc1d57b1c090ccb540d0320b2e27c883413313537115c6a
 Section: roothide
 Description: 转为roothide
 Author: SOPPPra
@@ -154,16 +313,16 @@ Pre-Depends: rootless-compat(>= 0.1)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/roothide/byg.iosios.net.souvenir_1.22_iphoneos-arm64e.deb
 Size: 104988
-MD5sum: c39936c9a2a52fbbc5882c8b9ace12c5
-SHA1: 9d94eb948371d583210de667d85ddb1b4577039f
-SHA256: dfb0af83c45a0b19096c5097e091801c6534dc0514063ce4fa0b0430a09e3b18
+MD5sum: 9513924bff0581f259cf9de86f7d2b4d
+SHA1: 61490cea845462960a7643f3feec10925b4f4cd2
+SHA256: ef7b60008d7f2d3d314dbb3b9e86c34cfa0df9d73709a84f7eda391650bbf1c6
 Section: roothide
 Description: 转为roothide
 Author: Elio Feghali
 Name: Souvenir锁屏美化-Rootless
 Sponsor: milo
 
-Package: org.thebigboss.libcolorpicker
+Package: com.roothide.org.thebigboss.libcolorpicker
 Version: 1.6.9
 Architecture: iphoneos-arm64e
 Maintainer: Bailey Seymour
@@ -173,12 +332,31 @@ Depends: firmware (>= 6.0)
 Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
 Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
 Filename: debs/roothide/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64e.deb
-Size: 72128
-MD5sum: 2df92441192a619d00299ff509968c19
-SHA1: 7e4db6af87badd25af33e94b6713658c4baa0def
-SHA256: 98c2ce37f16c24db5ce6f41b30d2e955fcec6e4274663bdd45763fae4f9253f4
+Size: 72136
+MD5sum: 3ffe0b5bc174fb27e459c35befb46e0b
+SHA1: 4d1cef2611bda62934a776a80bd9b63966d8cd1e
+SHA256: 55d1a76f23e1413db64aac1748fd180373a5ebee094f01d767fda7d7754f465e
 Section: roothide
 Description: 转为roothide
+Tag: role::developer
+Author: Bailey Seymour
+Name: libcolorpicker
+
+Package: org.thebigboss.libcolorpicker
+Version: 1.6.9
+Architecture: iphoneos-arm64
+Maintainer: Bailey Seymour
+Installed-Size: 392
+Depends: firmware (>= 6.0)
+Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
+Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
+Filename: debs/rootless/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64.deb
+Size: 70930
+MD5sum: e00983f2e7bf87f5e0bc221c23787c5d
+SHA1: 6099739e676227e1a5761bda8e510f8da49ffff8
+SHA256: d906e6eb451e134b7c263d528264d700873dffa0c82744e5e699fe912373ebea
+Section: System
+Description: An awesome library of some sort!!
 Tag: role::developer
 Author: Bailey Seymour
 Name: libcolorpicker
