@@ -30,7 +30,6 @@ SHA256: 7ee8a21983866e14e7961f982edd05e7acc2f3985921beb967dfe29be7453ea7
 Section: 系统增强
 Description: Develop your own tweaks and share them on the Flex Community Cloud作者今天刚维护更新的61beta-Rootless版本，兄弟们冲吧，如果打开闪退的话就进入系统设置里的显示与亮度，关闭粗体显示！免费账号每天可下载2个补丁，此账号可无限下载！sundasheng521@qq.com密码7758521a
 Author: John Coates
-Icon: https://chinesebuilding.club/pic/cydia.png
 Name: Flex 3 Beta程序修改器-Rootless
 Sponsor: 搬运工
 
@@ -49,7 +48,6 @@ SHA256: 92f3497c43e0dd5d93996b7e5c851d95a40a29d54bbbee5b8e1e6d415d2f89d3
 Section: 系统增强
 Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
 Author: Fouad Raheb
-Icon: https://chinesebuilding.club/pic/cydia.png
 Name: AppData降级APP-Rootless
 Sponsor: 搬运工
 
@@ -67,7 +65,6 @@ SHA256: ba9dfcedff921a11af34ab9020d587497d1c5eca5172e644475feecdd7b3498c
 Section: 系统增强
 Description: 隐藏截图时左下角预览，保留闪屏无延迟
 Author: Netskao
-Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 隐藏截图预览-Rootless
 Sponsor: 搬运工
 
@@ -84,7 +81,6 @@ SHA256: 6b3fd8fc9533bb616abb8db87cb4db5557b11cdc68f3431515cdc3105b28f021
 Section: 软件破解
 Description: App Store需要付费的软件可以先试试此内购插件，弹窗付款点取消即可，如果不行，那就是破解不了！放弃吧！
 Author: lly
-Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 内购神器IAPStore-Rootless
 Sponsor: 搬运工
 
@@ -104,7 +100,6 @@ SHA256: a8e6342f76e70ff703cdc5f0d3000a98cee67d0058eea402ce37eb9855e118b4
 Section: 系统增强
 Description: 一款iPhone可以用的终端软件
 Author: lordscotland
-Icon: https://chinesebuilding.club/pic/cydia.png
 Name: MTerminal终端-Rootless
 Sponsor: 搬运工
 
@@ -123,7 +118,6 @@ SHA256: c70beac5372b678bbe8287a88109c8638a3941c9b50324c92c18f0f2242adc13
 Section: 系统增强
 Description: Delete and disable OTA badge安装此插件即可屏蔽系统更新，yyds！半越狱不知道行不行，自行测试！
 Author: ichitaso
-Icon: https://chinesebuilding.club/pic/cydia.png
 Name: OTADisabler屏蔽系统更新-Rootless
 Sponsor: 搬运工
 
@@ -142,7 +136,6 @@ SHA256: fe38e6cb7831f60adc81ba861fe15e4240aff0ad3e42ccf5113e08195dea9d29
 Section: 软件破解
 Description: Modern in-app purchase cracker内购破解插件，可以破解一些小众软件，支付宝，淘宝都不行！安装之后去设置里打开第一个按扭即可！大部分都破解不了，请知悉！
 Author: Paisseon
-Icon: https://chinesebuilding.club/pic/cydia.png
 Name: Satella内购破解-Rootless
 Sponsor: 搬运工
 
@@ -161,7 +154,6 @@ SHA256: aa85b5fa744c0154007079882ec342c23ed01bf6c20c79eed5224ac81d3e3ced
 Section: 插件依赖
 Description: Customize the ios settings page插件设置归类，更新修复重多bug！插件已自带汉化，安装会自动移除中文包，无法更新可以先缷载再更新！现已支持顶图点击进入AppleID！
 Author: SOPPPra
-Icon: https://chinesebuilding.club/pic/cydia.png
 Name: SettingsRevamp-设置归类-Rootless
 Sponsor: 搬运工
 
@@ -180,7 +172,6 @@ SHA256: d8dd6ec03ea684ae7f1856fcee34cb60473a79c0f3b4f1b5678f6ff4b5cfc196
 Section: 杂七杂八
 Description: Lockscreen customization tweak!又一款锁屏美化插件，非常的好看，可以更改锁屏字体，字体目录var/jb/Library/ApplicationSupport/Souvenir.bundle/Fonts”支持ttf和otf自定义字体格式在搬运工源结合楠神汉化补丁修改完善，结合多种插件使用美化！已汉化！
 Author: Elio Feghali
-Icon: https://chinesebuilding.club/pic/cydia.png
 Name: Souvenir锁屏美化-Rootless
 Sponsor: 搬运工
 
@@ -200,7 +191,6 @@ SHA256: de11aa8e491f5e266d920c3bd81572f03d2c30b9358a401def2bc148b805e013
 Section: 系统增强
 Description: App Store帐户页面中快速切换帐号，如国区、美区。安装之后如果有冲突，安全模式，或者APP不能下载或更新，请缷载，然后重启手机！使用方法：长按App Store
 Author: Netsko
-Icon: https://chinesebuilding.club/pic/cydia.png
 Name: AppStore账号切换-Rootless
 Sponsor: 搬运工
 
