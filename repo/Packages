@@ -30,6 +30,7 @@ SHA256: 7ee8a21983866e14e7961f982edd05e7acc2f3985921beb967dfe29be7453ea7
 Section: 系统增强
 Description: Develop your own tweaks and share them on the Flex Community Cloud作者今天刚维护更新的61beta-Rootless版本，兄弟们冲吧，如果打开闪退的话就进入系统设置里的显示与亮度，关闭粗体显示！免费账号每天可下载2个补丁，此账号可无限下载！sundasheng521@qq.com密码7758521a
 Author: John Coates
+Icon: https://chinesebuilding.club/pic/cydia.png
 Name: Flex 3 Beta程序修改器-Rootless
 Sponsor: 搬运工
 
@@ -48,6 +49,7 @@ SHA256: 92f3497c43e0dd5d93996b7e5c851d95a40a29d54bbbee5b8e1e6d415d2f89d3
 Section: 系统增强
 Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
 Author: Fouad Raheb
+Icon: https://chinesebuilding.club/pic/cydia.png
 Name: AppData降级APP-Rootless
 Sponsor: 搬运工
 
@@ -65,6 +67,7 @@ SHA256: ba9dfcedff921a11af34ab9020d587497d1c5eca5172e644475feecdd7b3498c
 Section: 系统增强
 Description: 隐藏截图时左下角预览，保留闪屏无延迟
 Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 隐藏截图预览-Rootless
 Sponsor: 搬运工
 
@@ -81,26 +84,8 @@ SHA256: 6b3fd8fc9533bb616abb8db87cb4db5557b11cdc68f3431515cdc3105b28f021
 Section: 软件破解
 Description: App Store需要付费的软件可以先试试此内购插件，弹窗付款点取消即可，如果不行，那就是破解不了！放弃吧！
 Author: lly
+Icon: https://chinesebuilding.club/pic/cydia.png
 Name: 内购神器IAPStore-Rootless
-Sponsor: 搬运工
-
-Package: byg.iosios.net.mterminal-rootless
-Version: 1.4-1
-Architecture: iphoneos-arm64e
-Maintainer: 搬运工
-Installed-Size: 2236
-Pre-Depends: rootless-compat(>= 0.9), dpkg (>= 1.14.25-8)
-Depends: firmware (>= 15.0), gettext-localizations, system-cmds, bash | zsh
-Conflicts: mterminal
-Filename: debs/roothide/byg.iosios.net.mterminal-rootless_1.4-1_iphoneos-arm64e.deb
-Size: 1457654
-MD5sum: ed4e59e20679c3a06667a1788e4bd185
-SHA1: 9c868608b2130bda262901e17701b342150e276e
-SHA256: a8e6342f76e70ff703cdc5f0d3000a98cee67d0058eea402ce37eb9855e118b4
-Section: 系统增强
-Description: 一款iPhone可以用的终端软件
-Author: lordscotland
-Name: MTerminal终端-Rootless
 Sponsor: 搬运工
 
 Package: byg.iosios.net.otadisabler
@@ -118,6 +103,7 @@ SHA256: c70beac5372b678bbe8287a88109c8638a3941c9b50324c92c18f0f2242adc13
 Section: 系统增强
 Description: Delete and disable OTA badge安装此插件即可屏蔽系统更新，yyds！半越狱不知道行不行，自行测试！
 Author: ichitaso
+Icon: https://chinesebuilding.club/pic/cydia.png
 Name: OTADisabler屏蔽系统更新-Rootless
 Sponsor: 搬运工
 
@@ -136,6 +122,7 @@ SHA256: fe38e6cb7831f60adc81ba861fe15e4240aff0ad3e42ccf5113e08195dea9d29
 Section: 软件破解
 Description: Modern in-app purchase cracker内购破解插件，可以破解一些小众软件，支付宝，淘宝都不行！安装之后去设置里打开第一个按扭即可！大部分都破解不了，请知悉！
 Author: Paisseon
+Icon: https://chinesebuilding.club/pic/cydia.png
 Name: Satella内购破解-Rootless
 Sponsor: 搬运工
 
@@ -154,6 +141,7 @@ SHA256: aa85b5fa744c0154007079882ec342c23ed01bf6c20c79eed5224ac81d3e3ced
 Section: 插件依赖
 Description: Customize the ios settings page插件设置归类，更新修复重多bug！插件已自带汉化，安装会自动移除中文包，无法更新可以先缷载再更新！现已支持顶图点击进入AppleID！
 Author: SOPPPra
+Icon: https://chinesebuilding.club/pic/cydia.png
 Name: SettingsRevamp-设置归类-Rootless
 Sponsor: 搬运工
 
@@ -172,6 +160,7 @@ SHA256: d8dd6ec03ea684ae7f1856fcee34cb60473a79c0f3b4f1b5678f6ff4b5cfc196
 Section: 杂七杂八
 Description: Lockscreen customization tweak!又一款锁屏美化插件，非常的好看，可以更改锁屏字体，字体目录var/jb/Library/ApplicationSupport/Souvenir.bundle/Fonts”支持ttf和otf自定义字体格式在搬运工源结合楠神汉化补丁修改完善，结合多种插件使用美化！已汉化！
 Author: Elio Feghali
+Icon: https://chinesebuilding.club/pic/cydia.png
 Name: Souvenir锁屏美化-Rootless
 Sponsor: 搬运工
 
@@ -191,6 +180,7 @@ SHA256: de11aa8e491f5e266d920c3bd81572f03d2c30b9358a401def2bc148b805e013
 Section: 系统增强
 Description: App Store帐户页面中快速切换帐号，如国区、美区。安装之后如果有冲突，安全模式，或者APP不能下载或更新，请缷载，然后重启手机！使用方法：长按App Store
 Author: Netsko
+Icon: https://chinesebuilding.club/pic/cydia.png
 Name: AppStore账号切换-Rootless
 Sponsor: 搬运工
 
@@ -232,16 +222,15 @@ Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.js
 
 Package: com.lclrc.mdaus.latchkey
 Version: 2.3.2
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Maxwell Dausch & lclrc
 Installed-Size: 13476
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: debs/roothide/com.lclrc.mdaus.latchkey_2.3.2_iphoneos-arm64e.deb
-Size: 16903626
-MD5sum: d899798f3635207eda9e73aa19250a1c
-SHA1: a026ba6b10899cf2a38a62227d183ee07a8b3e29
-SHA256: 51f37d082559012993ce6304175e24d57c645ac7e182cdc195cf05e49cfa6b36
+Filename: debs/rootless/com.lclrc.mdaus.latchkey_2.3.2_iphoneos-arm64.deb
+Size: 6450584
+MD5sum: b6be2a6973ded9e0ba3b70282eced674
+SHA1: 9f97c6cc155670f43623df08ab995f727be5079a
+SHA256: eb8bc341efbd7f42b7546357a80e18616083702fb82d19e1a8c83dc5d7c55e5b
 Section: Tweaks
 Description: 自定义锁头图标和位置。适配多巴胺，增加汉化，需要libcolorpicker依赖(p2kdev源里有)。Move and theme the Face-ID lock glyph
 Author: Maxwell Dausch <max.dausch@gmail.com>
@@ -323,18 +312,17 @@ Name: Apps Manager
 
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Bailey Seymour
 Installed-Size: 392
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 6.0)
 Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
 Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
-Filename: debs/roothide/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64e.deb
-Size: 96888
-MD5sum: b0e24e4e3759d583930d385fce2b3878
-SHA1: 4b690d17713113bce3a7a9ade9fefe2a17e9e95c
-SHA256: d1593ae796c7ad122d4ac68533b92a8088110d02cb64466b8c8d653610b701a2
+Filename: debs/rootless/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64.deb
+Size: 70930
+MD5sum: e00983f2e7bf87f5e0bc221c23787c5d
+SHA1: 6099739e676227e1a5761bda8e510f8da49ffff8
+SHA256: d906e6eb451e134b7c263d528264d700873dffa0c82744e5e699fe912373ebea
 Section: System
 Description: An awesome library of some sort!!
 Tag: role::developer
