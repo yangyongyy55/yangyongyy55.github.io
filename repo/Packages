@@ -276,6 +276,24 @@ Author: John Coates
 Name: Flex 3 Beta程序修改器-Rootless
 Sponsor: milo
 
+Package: com.roothide.net.hidescreenshotpreview-rootless
+Version: 1.2-1
+Architecture: iphoneos-arm64e
+Maintainer: milo个人自用
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/roothide/byg.iosios.net.hidescreenshotpreview-rootless_1.2-1_iphoneos-arm64e.deb
+Size: 5132
+MD5sum: 57b5ac9e9725f169d68784c1d456b551
+SHA1: 6b5acd954c6b3c69f3f5f31c80d4de47facba851
+SHA256: 72c5ffb7fec44ffbe152eb080dd19e36072f8597de1831403fce6c4411eedd9f
+Section: roothide
+Description: 转为roothide 隐藏截图时左下角预览，保留闪屏无延迟
+Author: Netskao
+Name: 隐藏截图预览-Rootless
+Sponsor: milo
+
 Package: com.tigisoftware.appdatamanager
 Version: 1.8.2-4
 Architecture: iphoneos-arm64e
