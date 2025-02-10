@@ -129,17 +129,17 @@ Name: SettingsRevamp-设置归类-Rootless
 Sponsor: 搬运工
 
 Package: byg.iosios.net.souvenir
-Version: 1.31
+Version: 1.32
 Architecture: iphoneos-arm64e
 Maintainer: 搬运工
 Installed-Size: 676
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/roothide/byg.iosios.net.souvenir_1.31_iphoneos-arm64e.deb
-Size: 142574
-MD5sum: 8da084d5d2a53919db374736236f8df7
-SHA1: f68c43b792c57b165256001bb57b33d6abb2959e
-SHA256: d8dd6ec03ea684ae7f1856fcee34cb60473a79c0f3b4f1b5678f6ff4b5cfc196
+Filename: debs/roothide/byg.iosios.net.souvenir_1.32_iphoneos-arm64e.deb
+Size: 144526
+MD5sum: 4ef84f5798b73f7d30266e299db08fa8
+SHA1: bcbaca24b121a9fddcda8243334d54e93dc0a82c
+SHA256: a94cf6a6752fee1111605d6da87c23a22ffe29eb7f3ff9fa8b78d60a5010a9b9
 Section: 杂七杂八
 Description: Lockscreen customization tweak!又一款锁屏美化插件，非常的好看，可以更改锁屏字体，字体目录var/jb/Library/ApplicationSupport/Souvenir.bundle/Fonts”支持ttf和otf自定义字体格式在搬运工源结合楠神汉化补丁修改完善，结合多种插件使用美化！已汉化！
 Author: Elio Feghali
@@ -167,6 +167,28 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: AppStore账号切换-Rootless
 Sponsor: 搬运工
 
+Package: com.0xkuj.blockwaupdates
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/roothide/com.0xkuj.blockwaupdates_1.1_iphoneos-arm64e.deb
+Size: 4526
+MD5sum: ad6ef0de153b28a79a70c83e380fd43c
+SHA1: 52a0e6654392beb850336b9b7fd7eb676a70e75f
+SHA256: a5071106523afc1a30bb064803f23d651ce14f929319a688296ce0a4a03d5873
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blockwaupdatesDp
+Description: Blocks Whatsapp message saying you must update
+Tag: purpose::extension
+Author: 0xkuj <kujmank@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=blockwaupdatesDp
+Dev: 0xkuj
+Name: Block WA Updates
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.25mao.miyou.rootless
 Version: 3.7-2
 Architecture: iphoneos-arm64
@@ -183,6 +205,43 @@ Description: 微信助手-Rootless版
 Author: Mao
 Name: 微信助手-Rootless
 Sponsor: admin@25mao.com
+
+Package: com.25mao.youquan.rootless
+Version: 3.0-9
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/roothide/com.25mao.youquan.rootless_3.0-9_iphoneos-arm64e.deb
+Size: 78694
+MD5sum: 3c733e97ecbcf14b05400639e86a83a9
+SHA1: 2508dae9e38cab5b55c9655fe21b14014c4587a9
+SHA256: f7cf7ea20f6ccb48465b4d3a95accc30365a4c3b03cfea2caec9d7d4e6c2b427
+Section: Rootless
+Priority: optional
+Description: 查淘宝优惠券，查商品历史价
+Author: Mao
+Name: 淘宝优惠券-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.dvntm.infuseplus
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 1016
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/roothide/com.dvntm.infuseplus_2.0.1_iphoneos-arm64e.deb
+Size: 339750
+MD5sum: b6b37d205c1e7c70f55bc93105d2aad3
+SHA1: 8fb06f61fa2e345651a5475cbd57715464013038
+SHA256: 963f5710808c0765feb7e3c38f6d1ff2b77c6c9182e0c9b63cfbc7da5b7f511a
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
 Package: com.dvntm.ytlite
 Version: 4.0.1
@@ -205,15 +264,16 @@ Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.js
 
 Package: com.lclrc.mdaus.latchkey
 Version: 2.3.2
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Maxwell Dausch & lclrc
 Installed-Size: 13476
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: debs/rootless/com.lclrc.mdaus.latchkey_2.3.2_iphoneos-arm64.deb
-Size: 6450584
-MD5sum: b6be2a6973ded9e0ba3b70282eced674
-SHA1: 9f97c6cc155670f43623df08ab995f727be5079a
-SHA256: eb8bc341efbd7f42b7546357a80e18616083702fb82d19e1a8c83dc5d7c55e5b
+Filename: debs/roothide/com.lclrc.mdaus.latchkey_2.3.2_iphoneos-arm64e.deb
+Size: 16903626
+MD5sum: d899798f3635207eda9e73aa19250a1c
+SHA1: a026ba6b10899cf2a38a62227d183ee07a8b3e29
+SHA256: 51f37d082559012993ce6304175e24d57c645ac7e182cdc195cf05e49cfa6b36
 Section: Tweaks
 Description: 自定义锁头图标和位置。适配多巴胺，增加汉化，需要libcolorpicker依赖(p2kdev源里有)。Move and theme the Face-ID lock glyph
 Author: Maxwell Dausch <max.dausch@gmail.com>
@@ -313,17 +373,18 @@ Name: Apps Manager
 
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Bailey Seymour
 Installed-Size: 392
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 6.0)
 Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
 Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
-Filename: debs/rootless/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64.deb
-Size: 70930
-MD5sum: e00983f2e7bf87f5e0bc221c23787c5d
-SHA1: 6099739e676227e1a5761bda8e510f8da49ffff8
-SHA256: d906e6eb451e134b7c263d528264d700873dffa0c82744e5e699fe912373ebea
+Filename: debs/roothide/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64e.deb
+Size: 96888
+MD5sum: b0e24e4e3759d583930d385fce2b3878
+SHA1: 4b690d17713113bce3a7a9ade9fefe2a17e9e95c
+SHA256: d1593ae796c7ad122d4ac68533b92a8088110d02cb64466b8c8d653610b701a2
 Section: System
 Description: An awesome library of some sort!!
 Tag: role::developer
