@@ -281,6 +281,27 @@ Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
 Name: 锁头自定义 Latchkey
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.mdaus.latchkey/depiction.json
 
+Package: com.macthemes.axolotl
+Version: 2504
+Architecture: iphoneos-arm64e
+Maintainer: Aeneon <me@macthemes.me>
+Installed-Size: 589
+Pre-Depends: rootless-compat(>= 0.9), mobilesubstrate, preferenceloader | com.artikus.preferenceloader
+Depends: firmware (>= 11)
+Conflicts: com.0xkuj.blockwaupdates, com.ifilipis.fckzck
+Filename: debs/roothide/com.macthemes.axolotl_2504_iphoneos-arm64e-1.deb
+Size: 249288
+MD5sum: 8dd16a7d20c9fc29c6289f4b27982ac5
+SHA1: 5a7551b766c49224fa1d4bc628af4c21d5deb7bf
+SHA256: 2e549be5ea4e580629b755c3667ea2604aeec7491af31857e6e81d34d356a0e2
+Section: Tweaks
+Description: Blocks WhatsApp Update Notifications …
+Tag: compatible::ios15
+Author: 0xkuj, ifilipis & MacThemes <me@macthemes.me>
+Depiction: http://macthemes.me/package.php?id=com.macthemes.axolotl
+Icon: file:///Library/PreferenceBundles/AxolotlPrefs.bundle/axolotl.png
+Name: Axolotl for WhatsApp
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.6.4
 Architecture: iphoneos-arm64
