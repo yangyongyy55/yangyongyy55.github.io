@@ -225,17 +225,16 @@ Name: 淘宝优惠券-Rootless
 Sponsor: admin@25mao.com
 
 Package: com.dvntm.infuseplus
-Version: 2.0.1
+Version: 2.2
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
-Installed-Size: 1016
-Pre-Depends: rootless-compat(>= 0.9)
+Installed-Size: 1132
 Depends: mobilesubstrate
-Filename: debs/roothide/com.dvntm.infuseplus_2.0.1_iphoneos-arm64e.deb
-Size: 339750
-MD5sum: b6b37d205c1e7c70f55bc93105d2aad3
-SHA1: 8fb06f61fa2e345651a5475cbd57715464013038
-SHA256: 963f5710808c0765feb7e3c38f6d1ff2b77c6c9182e0c9b63cfbc7da5b7f511a
+Filename: debs/roothide/com.dvntm.infuseplus_2.2_iphoneos-arm64e.deb
+Size: 405142
+MD5sum: 57a609f56321d15bd837b4810d23c2ce
+SHA1: 859acacaa3b45ac03a005f15fb4d1e290a74155c
+SHA256: ce35fe119940100a2c252356895b6d5b0d71784c152a87c8ed02f641f1a7dcec
 Section: Tweaks
 Description: Enhancer for Infuse app
 Author: dvntm
@@ -244,23 +243,22 @@ Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
 Package: com.dvntm.ytlite
-Version: 4.0.1
+Version: 5.1
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
-Installed-Size: 15596
-Pre-Depends: rootless-compat(>= 0.9)
+Installed-Size: 16344
 Depends: mobilesubstrate
-Filename: debs/roothide/com.dvntm.ytlite_4.0.1_iphoneos-arm64e.deb
-Size: 15704268
-MD5sum: 0ff12bb23aca60272337c98b1f51d088
-SHA1: 198abc43c819227a7f5b54a6a7e920eec2d7930a
-SHA256: bb66277675dfd6c9318639e2ddbb3ca43617cbcb265d9f51a7976c7979737e5b
+Filename: debs/roothide/com.dvntm.ytlite_5.1_iphoneos-arm64e.deb
+Size: 6186590
+MD5sum: 82651ed53e457ad36a4f7cb9dc280118
+SHA1: 3e1e9c473276b5161846e5689f070b8c35b2f7e4
+SHA256: d1627149204fb332400df5725c8ba24bb6143e3f98babcfc8299a8b562e068d0
 Section: Tweaks
 Description: Lightweight YouTube Enhancer
 Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
 Name: YTLite
-Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
 
 Package: com.lclrc.mdaus.latchkey
 Version: 2.3.2
