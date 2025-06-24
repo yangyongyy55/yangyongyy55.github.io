@@ -129,6 +129,43 @@ Name: SettingsRevamp-设置归类-Rootless
 Sponsor: 搬运工
 
 Package: byg.iosios.net.souvenir
+Version: 1.22
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Installed-Size: 604
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/rootless/byg.iosios.net.souvenir_1.22_iphoneos-arm64.deb
+Size: 146004
+MD5sum: 28425642b0b9608060fb6386296dc8b9
+SHA1: d12691d5b4977c3c3d031860366c67ea40827767
+SHA256: 60638214423f57980a4e1e4ebec1e2c93e84939439f99d430e01242f7ebc6d8b
+Section: 杂七杂八
+Description: Lockscreen customization tweak!又一款锁屏美化插件，搬运工源结合楠神汉化补丁修改完善，结合多种插件使用美化！已汉化！
+Author: Elio Feghali
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Souvenir锁屏美化-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.souvenir
+Version: 1.31
+Architecture: iphoneos-arm64e
+Maintainer: 搬运工
+Installed-Size: 676
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/roothide/byg.iosios.net.souvenir_1.31_iphoneos-arm64e.deb
+Size: 142574
+MD5sum: 8da084d5d2a53919db374736236f8df7
+SHA1: f68c43b792c57b165256001bb57b33d6abb2959e
+SHA256: d8dd6ec03ea684ae7f1856fcee34cb60473a79c0f3b4f1b5678f6ff4b5cfc196
+Section: 杂七杂八
+Description: Lockscreen customization tweak!又一款锁屏美化插件，非常的好看，可以更改锁屏字体，字体目录var/jb/Library/ApplicationSupport/Souvenir.bundle/Fonts”支持ttf和otf自定义字体格式在搬运工源结合楠神汉化补丁修改完善，结合多种插件使用美化！已汉化！
+Author: Elio Feghali
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Souvenir锁屏美化-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.souvenir
 Version: 1.32
 Architecture: iphoneos-arm64e
 Maintainer: 搬运工
@@ -225,6 +262,25 @@ Name: 淘宝优惠券-Rootless
 Sponsor: admin@25mao.com
 
 Package: com.dvntm.infuseplus
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 1016
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/roothide/com.dvntm.infuseplus_2.0.1_iphoneos-arm64e.deb
+Size: 339750
+MD5sum: b6b37d205c1e7c70f55bc93105d2aad3
+SHA1: 8fb06f61fa2e345651a5475cbd57715464013038
+SHA256: 963f5710808c0765feb7e3c38f6d1ff2b77c6c9182e0c9b63cfbc7da5b7f511a
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
 Version: 2.2
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
@@ -241,6 +297,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.ytlite
+Version: 4.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 15596
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/roothide/com.dvntm.ytlite_4.0.1_iphoneos-arm64e.deb
+Size: 15704268
+MD5sum: 0ff12bb23aca60272337c98b1f51d088
+SHA1: 198abc43c819227a7f5b54a6a7e920eec2d7930a
+SHA256: bb66277675dfd6c9318639e2ddbb3ca43617cbcb265d9f51a7976c7979737e5b
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
 Package: com.dvntm.ytlite
 Version: 5.1
@@ -272,6 +347,24 @@ Size: 16903626
 MD5sum: d899798f3635207eda9e73aa19250a1c
 SHA1: a026ba6b10899cf2a38a62227d183ee07a8b3e29
 SHA256: 51f37d082559012993ce6304175e24d57c645ac7e182cdc195cf05e49cfa6b36
+Section: Tweaks
+Description: 自定义锁头图标和位置。适配多巴胺，增加汉化，需要libcolorpicker依赖(p2kdev源里有)。Move and theme the Face-ID lock glyph
+Author: Maxwell Dausch <max.dausch@gmail.com>
+Depiction: https://repo.daus.ch/depictions/?p=ch.mdaus.latchkey
+Name: 锁头自定义 Latchkey
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.mdaus.latchkey/depiction.json
+
+Package: com.lclrc.mdaus.latchkey
+Version: 2.3.2
+Architecture: iphoneos-arm64
+Maintainer: Maxwell Dausch & lclrc
+Installed-Size: 13476
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/rootless/com.lclrc.mdaus.latchkey_2.3.2_iphoneos-arm64.deb
+Size: 6450584
+MD5sum: b6be2a6973ded9e0ba3b70282eced674
+SHA1: 9f97c6cc155670f43623df08ab995f727be5079a
+SHA256: eb8bc341efbd7f42b7546357a80e18616083702fb82d19e1a8c83dc5d7c55e5b
 Section: Tweaks
 Description: 自定义锁头图标和位置。适配多巴胺，增加汉化，需要libcolorpicker依赖(p2kdev源里有)。Move and theme the Face-ID lock glyph
 Author: Maxwell Dausch <max.dausch@gmail.com>
@@ -317,6 +410,23 @@ Description: An awesome library of some sort!!
 Tag: role::developer
 Author: MrGcGamer
 Name: LibGcUniversal
+
+Package: com.opa334.crane
+Version: 1.3.13
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 3108
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: debs/rootless/com.opa334.crane_1.3.13_iphoneos-arm64.deb
+Size: 560552
+MD5sum: 6799af90201843c9f6f3c4f476b15bf4
+SHA1: c71f691a16b4d8bef54ea2f54949e81bccf6c8d5
+SHA256: 73f30c8ca4aad7e7f66f39b91adedd27a8160b195a88d057acd289c1b8dbb92a
+Section: Tweaks
+Description: Multiple containers for your applications!
+Author: opa334
+Name: Crane
 
 Package: com.opa334.crane
 Version: 1.3.15-2
@@ -404,6 +514,25 @@ Size: 96888
 MD5sum: b0e24e4e3759d583930d385fce2b3878
 SHA1: 4b690d17713113bce3a7a9ade9fefe2a17e9e95c
 SHA256: d1593ae796c7ad122d4ac68533b92a8088110d02cb64466b8c8d653610b701a2
+Section: System
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: Bailey Seymour
+Name: libcolorpicker
+
+Package: org.thebigboss.libcolorpicker
+Version: 1.6.9
+Architecture: iphoneos-arm64
+Maintainer: Bailey Seymour
+Installed-Size: 392
+Depends: firmware (>= 6.0)
+Replaces: me.nepeta.libcolorpicker, ws.hbang.alderis
+Provides: me.nepeta.libcolorpicker, ws.hbang.alderis
+Filename: debs/rootless/org.thebigboss.libcolorpicker_1.6.9_iphoneos-arm64.deb
+Size: 70930
+MD5sum: e00983f2e7bf87f5e0bc221c23787c5d
+SHA1: 6099739e676227e1a5761bda8e510f8da49ffff8
+SHA256: d906e6eb451e134b7c263d528264d700873dffa0c82744e5e699fe912373ebea
 Section: System
 Description: An awesome library of some sort!!
 Tag: role::developer
