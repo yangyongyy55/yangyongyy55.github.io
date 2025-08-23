@@ -354,6 +354,24 @@ Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Res
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Version: 2.4
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 1216
+Depends: mobilesubstrate
+Filename: debs/roothide/com.dvntm.infuseplus_2.4_iphoneos-arm64e.deb
+Size: 445362
+MD5sum: 04b837a7c4c38bec9ef818686f8599f2
+SHA1: 2ba0213508b819bb42d6870587fe6e93f5bb6f66
+SHA256: c6c5a9a282aaa944aa37e06c097bd6f68ede5b996260c046da8a648015cde60d
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.ytlite
 Version: 4.0.1
 Architecture: iphoneos-arm64e
@@ -402,6 +420,24 @@ Size: 6396580
 MD5sum: 4eb12f5da797d5fd8d2bef3b8880dde8
 SHA1: 0e4b9e1fc1de93849df3c1d38a7dd368f7f6f7de
 SHA256: fc8608ce581178b1c82ad8bbac3b373c58bfb0d17c78892e6affc9698ea53643
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
+Package: com.dvntm.ytlite
+Version: 5.2b3
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16696
+Depends: mobilesubstrate
+Filename: debs/roothide/com.dvntm.ytlite_5.2b3_iphoneos-arm64e.deb
+Size: 6403020
+MD5sum: c5e8e013d55cda51e6bfeceb7a6491df
+SHA1: 87b728ff62ea7248be14ea499a826365710ca4fe
+SHA256: 6baadbe132b44c41e7b1824e14bad4cb3271eced1454ccb5d9755141bbb3db6b
 Section: Tweaks
 Description: Lightweight YouTube Enhancer
 Author: dvntm
@@ -459,6 +495,27 @@ Size: 249288
 MD5sum: 8dd16a7d20c9fc29c6289f4b27982ac5
 SHA1: 5a7551b766c49224fa1d4bc628af4c21d5deb7bf
 SHA256: 2e549be5ea4e580629b755c3667ea2604aeec7491af31857e6e81d34d356a0e2
+Section: Tweaks
+Description: Blocks WhatsApp Update Notifications …
+Tag: compatible::ios15
+Author: 0xkuj, ifilipis & MacThemes <me@macthemes.me>
+Depiction: http://macthemes.me/package.php?id=com.macthemes.axolotl
+Icon: file:///Library/PreferenceBundles/AxolotlPrefs.bundle/axolotl.png
+Name: Axolotl for WhatsApp
+
+Package: com.macthemes.axolotl
+Version: 2508
+Architecture: iphoneos-arm64e
+Maintainer: Aeneon <me@macthemes.me>
+Installed-Size: 589
+Pre-Depends: rootless-compat(>= 0.9), mobilesubstrate, preferenceloader | com.artikus.preferenceloader
+Depends: firmware (>= 11)
+Conflicts: com.0xkuj.blockwaupdates, com.ifilipis.fckzck
+Filename: debs/roothide/com.macthemes.axolotl_2508_iphoneos-arm64e.deb
+Size: 248504
+MD5sum: 009932f7d683379c5ea30d089aa69025
+SHA1: 59c46b3fe8008c77443fa603d8608ed8f03a7d96
+SHA256: dedba6bbea22ca1cc9c541c1e7ce67714c7d36a0c3989139a71324245273e3a0
 Section: Tweaks
 Description: Blocks WhatsApp Update Notifications …
 Tag: compatible::ios15
