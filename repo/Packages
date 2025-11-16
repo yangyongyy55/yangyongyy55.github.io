@@ -540,6 +540,22 @@ Description: 解除酷狗海外IP限制，酷狗10.1.5测试正常
 Author: milo
 Name: KugouIP
 
+Package: com.milo.kugounoad
+Version: 10.1.5-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: milo
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: debs/roothide/com.milo.kugounoad_10.1.5-1+debug_iphoneos-arm64e.deb
+Size: 10564
+MD5sum: 710cc19ee7ed6f2cb810b873e2605be7
+SHA1: 19b4e7c29368cbdf123cde3db8a6d55ee4c2dc50
+SHA256: 7a25c6660c370901b5f985eae298934e9230b5893a7de1135316e28bc513906f
+Section: Tweaks
+Description: 酷狗10.1.5去广告
+Author: milo
+Name: KugouNoAd
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.6.4
 Architecture: iphoneos-arm64
