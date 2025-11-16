@@ -524,6 +524,22 @@ Depiction: http://macthemes.me/package.php?id=com.macthemes.axolotl
 Icon: file:///Library/PreferenceBundles/AxolotlPrefs.bundle/axolotl.png
 Name: Axolotl for WhatsApp
 
+Package: com.milo.kugouip
+Version: 10.1.5-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: milo
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: debs/roothide/com.milo.kugouip_10.1.5-1+debug_iphoneos-arm64e.deb
+Size: 4580
+MD5sum: c8fc9fd2b4c48fa61772f5209a8c8cf9
+SHA1: 0ffb897a28dd9f8eda8680d5aeb5dc5fd81a1942
+SHA256: e083ab21aa2c63d4af4c965d8d5809a4a371fe66550dc28918d06fc83d0237c7
+Section: Tweaks
+Description: 解除酷狗海外IP限制，酷狗10.1.5测试正常
+Author: milo
+Name: KugouIP
+
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.6.4
 Architecture: iphoneos-arm64
