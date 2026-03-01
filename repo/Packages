@@ -372,6 +372,24 @@ Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Res
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Version: 2.5
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 1292
+Depends: mobilesubstrate
+Filename: debs/roothide/com.dvntm.infuseplus_2.5_iphoneos-arm64e.deb
+Size: 454554
+MD5sum: cf6cdf7eda758f57e94554e698d48fc0
+SHA1: 2d44a428def56600906172ac8151d067d362bdad
+SHA256: 859df14faaca69a2ed480c8a6c164eda3e96212d41245fa580c8b4441b535449
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.ytlite
 Version: 4.0.1
 Architecture: iphoneos-arm64e
@@ -438,6 +456,24 @@ Size: 6403020
 MD5sum: c5e8e013d55cda51e6bfeceb7a6491df
 SHA1: 87b728ff62ea7248be14ea499a826365710ca4fe
 SHA256: 6baadbe132b44c41e7b1824e14bad4cb3271eced1454ccb5d9755141bbb3db6b
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
+Package: com.dvntm.ytlite
+Version: 5.2b4
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16732
+Depends: mobilesubstrate
+Filename: debs/roothide/com.dvntm.ytlite_5.2b4_iphoneos-arm64e.deb
+Size: 6409684
+MD5sum: 292d6c66e273489633df92c21b6fca3a
+SHA1: c7f22ec57dc212ce4f152a0e8408a26a5a502ec7
+SHA256: 08dbe988cef49bd8d4a0a996b086f2885cadf46d1b5b9bc2372f562d940c7f5c
 Section: Tweaks
 Description: Lightweight YouTube Enhancer
 Author: dvntm
